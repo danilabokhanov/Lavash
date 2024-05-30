@@ -1,0 +1,4 @@
+editable:
+  - "lavash.cpp"
+name: "lavash"
+score_file: "res.txt"
